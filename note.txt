@@ -1,0 +1,28 @@
+iMac
+====
+native resolution: 5120 x 2880
+effective resolution: 2560 x 1440 (scale factor: 2x)
+
+
+iPhone 14 Pro Max
+=================
+physical resolution: 2796 x 1290
+logical resolution: 926 x 430 (scale factor: 3x)
+
+
+Tailwind CSS default breakpoints
+================================
+sm (small): 640px
+Used for small screens like mobile devices.
+
+md (medium): 768px
+Used for medium screens like tablets.
+
+lg (large): 1024px
+Used for large screens like laptops and small desktops.
+
+xl (extra-large): 1280px
+Used for extra-large screens like larger desktops.
+
+2xl (2x extra-large): 1536px
+Used for very large screens, such as ultra-wide monitors.
